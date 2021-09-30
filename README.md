@@ -1,7 +1,7 @@
 ## Fitness
 
 ### About
-This is a small web page. On this Web Page, I am showing you how to add live animation video in the background. And in this web page, you also see toggle with help javascript code. This project is just an idea for others to how we design that like project.
+This is small webpage. In this I am showing you the way of adding live animated videos in your background. You will also find some interesting toggle created by the javascript code. This project will help you in designing  more such types of interesting project.
 
 ### Screenshots
 ![FirstPage](https://github.com/kushmahi21/Fitness/blob/main/Screenshot/f1.JPG)
